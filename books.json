@@ -1,0 +1,497 @@
+{
+    "Larry Niven": [
+        "The Mote in God's Eye",
+        "Ringworld's Children"
+    ],
+    "David Wong": [
+        "John Dies at the End"
+    ],
+    "Dan White": [
+        "The Cactus Eaters: How I Lost My Mind--and Almost Found Myself--on the Pacific Crest Trail"
+    ],
+    "Douglas Hulick": [
+        "Sworn in Steel: A Tale of the Kin",
+        "Among Thieves"
+    ],
+    "Daniel Quinn": [
+        "Ishmael"
+    ],
+    "Charles Bukowski": [
+        "Reach for the Sun: Selected Letters, 1978-1994",
+        "Women: A Novel"
+    ],
+    "China Mieville": [
+        "The Scar"
+    ],
+    "Andy Weir": [
+        "The Martian"
+    ],
+    "Margaret Atwood": [
+        "Oryx and Crake"
+    ],
+    "William Gibson": [
+        "Neuromancer"
+    ],
+    "William S. Burroughs": [
+        "Naked Lunch: The Restored Text"
+    ],
+    "Matt Haig": [
+        "Humans: An A-Z"
+    ],
+    "Aldous Huxley": [
+        "Brave New World"
+    ],
+    "John Wyndham": [
+        "The Chrysalids",
+        "The Day of the Triffids"
+    ],
+    "Fyodor Dostoevsky": [
+        "Notes From Underground",
+        "Crime and Punishment"
+    ],
+    "Joe Haldeman": [
+        "A Separate War and Other Stories"
+    ],
+    "Neil Strauss": [
+        "The Game"
+    ],
+    "Gary Zukav": [
+        "The Dancing Wu Li Masters: An Overview of the New Physics"
+    ],
+    "Ken Kesey": [
+        "One Flew Over the Cuckoo's Nest"
+    ],
+    "Jeff Marsden": [
+        "The Catcher in the Rye"
+    ],
+    "Jared M. Diamond": [
+        "Guns, Germs, and Steel The Fates of Human Societies"
+    ],
+    "Niccolo Machiavelli": [
+        "The Prince"
+    ],
+    "Lesswrong Aka Eliezer Yudkowsky": [
+        "Harry Potter and the Methods of Rationality"
+    ],
+    "Joe Abercrombie": [
+        "Last Argument of Kings (The First Law)",
+        "Before They Are Hanged",
+        "The Blade Itself",
+        "The Great Leveller Best Served Cold, The Heroes and Red Country",
+        "The Shattered Sea Series 3-Book Bundle Half a King, Half the World, Half a War"
+    ],
+    "Robert S. Jordan": [
+        "The Gathering Storm"
+    ],
+    "Robert N. Thomas": [
+        "With Bleeding Footsteps"
+    ],
+    "Daniel Keyes": [
+        "Flowers for Algernon"
+    ],
+    "Thomas Stearns Eliot": [
+        "The Waste Land and Other Poems"
+    ],
+    "James Joyce": [
+        "Ulysses"
+    ],
+    "Stanley Kubrick": [
+        "Stanley Kubrick's a Clockwork Orange (ScreenPress Film Screenplays)"
+    ],
+    "Scott Lynch": [
+        "Red Seas Under Red Skies",
+        "The Republic of Thieves",
+        "The Lies of Locke Lamora (Gentleman Bastards, Book 1)"
+    ],
+    "Virginia Woolf": [
+        "Mrs. Dalloway"
+    ],
+    "William Golding": [
+        "Lord of the Flies"
+    ],
+    "Roger Zelazny": [
+        "The Great Book of Amber The Complete Amber Chronicles, 1-10"
+    ],
+    "Carl Sagan": [
+        "The Demon-Haunted World Science as a Candle in the Dark",
+        "Cosmos"
+    ],
+    "Dale Carnegie": [
+        "How to Win Friends and Influence People"
+    ],
+    "Dan Simmons": [
+        "Hyperion",
+        "The Hyperion Cantos 4-Book Bundle Hyperion, the Fall of Hyperion, Endymion, the Rise of Endymio"
+    ],
+    "Chuck Palahniuk": [
+        "Fight Club: A Novel",
+        "Haunted: A Novel"
+    ],
+    "Cormac McCarthy": [
+        "The Road",
+        "Blood Meridian, Or, the Evening Redness in the West"
+    ],
+    "Jonas Jonasson": [
+        "The 100-Year-Old Man Who Climbed Out the Window and Disappeared"
+    ],
+    "Pierce Brown": [
+        "Morning Star",
+        "Golden Son: Book II of the Red Rising Trilogy",
+        "Red Rising"
+    ],
+    "George Whitney Martin": [
+        "Clash of Kings",
+        "A Feast for Crows. George R.R. Martin",
+        "Game of Thrones"
+    ],
+    "Michael Pollan": [
+        "In Defense of Food: An Eater's Manifesto"
+    ],
+    "Ursula K. Le Guin": [
+        "The Dispossessed: An Ambiguous Utopia (Hainish Cycle Book 5)"
+    ],
+    "Orson Scott Card": [
+        "Speaker for the Dead",
+        "Ender's Game",
+        "Ender's Shadow",
+        "Shadow of the Hegemon"
+    ],
+    "Ken Follett": [
+        "Pillars of the Earth"
+    ],
+    "Malcolm X": [
+        "The Autobiography of Malcolm X"
+    ],
+    "Ayn Rand": [
+        "Atlas Shrugged",
+        "The Fountainhead"
+    ],
+    "Chuck Klosterman": [
+        "Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto"
+    ],
+    "Neal Stephenson": [
+        "The System of the World (The Baroque Cycle, Vol. 3)",
+        "The Diamond Age",
+        "Seveneves: A Novel",
+        "Snow Crash",
+        "Cryptonomicon"
+    ],
+    "Hannu Rajaniemi": [
+        "The Fractal Prince (Jean Le Flambeur Book 2)",
+        "The Quantum Thief"
+    ],
+    "Margaret Eleanor Atwood": [
+        "The Handmaid's Tale"
+    ],
+    "Ernest Hemingway": [
+        "For Whom the Bell Tolls"
+    ],
+    "Robert Pirsig": [
+        "Zen and the Art of Motorcycle Maintenance"
+    ],
+    "Jostein Gaarder": [
+        "Sophie's World: A Novel About the History of Philosophy"
+    ],
+    "David A. Mitchell": [
+        "Cloud Atlas"
+    ],
+    "Vikram Seth": [
+        "A Suitable Boy"
+    ],
+    "Arthur C. Clarke": [
+        "Rendevous With Rama"
+    ],
+    "Wilbur A. Smith": [
+        "Eagle in the Sky",
+        "The Angels Weep",
+        "Blue Horizon",
+        "Falcon Flies",
+        "Birds of Prey",
+        "Diamond Hunters",
+        "Burning Shore",
+        "Dark of the Sun",
+        "Assegai:  16 Point",
+        "River God: Intermediate"
+    ],
+    "Arthur Charles Clarke": [
+        "Childhood's End"
+    ],
+    "Stephen King": [
+        "The Stand",
+        "The Dark Tower V: Wolves of the Calla",
+        "The Long Walk"
+    ],
+    "Lois McMaster Bujold": [
+        "Miles Errant",
+        "Brothers in Arms"
+    ],
+    "Christopher Moore": [
+        "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "Lamb Special Gift Ed"
+    ],
+    "Thomas Pynchon": [
+        "Gravity's Rainbow"
+    ],
+    "Ray Bradbury": [
+        "Fahrenheit 451"
+    ],
+    "Vladimir Nabokov": [
+        "Lolita"
+    ],
+    "Fyodor Dostoyevsky": [
+        "The Brothers Karamazov (Vintage Classics)"
+    ],
+    "Helene Wecker": [
+        "The Golem and the Jinni"
+    ],
+    "Charles Stross": [
+        "Accelerando"
+    ],
+    "Lionel Shriver": [
+        "We Need to Talk About Kevin: A Novel"
+    ],
+    "Marshall Boswell": [
+        "Understanding David Foster Wallace"
+    ],
+    "Ernest Cline": [
+        "Ready Player One"
+    ],
+    "Leo Frankowski": [
+        "The Cross-Time Engineer"
+    ],
+    "Kim Stanley Robinson": [
+        "Red Mars",
+        "Green Mars",
+        "Blue Mars"
+    ],
+    "Terry Pratchett": [
+        "Making Money",
+        "The Last Continent",
+        "Guards! Guards!",
+        "Monstrous Regiment",
+        "Snuff",
+        "Interesting Times",
+        "Lords and Ladies",
+        "Feet of Clay",
+        "The Last Hero",
+        "Men at Arms",
+        "Sourcery: A Discworld Novel",
+        "Soul Music",
+        "I Shall Wear Midnight",
+        "The Truth: The 25th Discworld Novel",
+        "Carpe Jugulum",
+        "Thud!",
+        "Moving Pictures (Discworld Book 10)",
+        "The Fifth Elephant (Discworld Book 24)",
+        "Witches Abroad (Discworld Book 12)",
+        "Unseen Academicals",
+        "Reaper Man",
+        "Jingo",
+        "Wintersmith",
+        "Hogfather",
+        "Wyrd Sisters: Illustrated Screenplay",
+        "The Amazing Maurice and His Educated Rodents",
+        "The Wee Free Men: A Story of Discworld",
+        "Night Watch",
+        "Thief of Time",
+        "A Hat Full of Sky",
+        "Terry Pratchett's the Amazing Maurice and His Educated Rodents",
+        "Raising Steam",
+        "Carpe Jugulum: A Novel of Discworld",
+        "Going Postal",
+        "Pyramids: A Discworld Novel",
+        "Small Gods",
+        "Maskerade (Discworld Book 18)"
+    ],
+    "John Steinbeck": [
+        "Of Mice and Men"
+    ],
+    "Meredith Ann Pierce": [
+        "The Son of Summer Stars"
+    ],
+    "Robert Jordan": [
+        "Winter's Heart (The Wheel of Time, Book 9)"
+    ],
+    "Edwin Abbott Abbott": [
+        "Flatland"
+    ],
+    "Suzanne Collins": [
+        "The Hunger Games Complete Trilogy"
+    ],
+    "Frank Herbert": [
+        "Dune"
+    ],
+    "Michael Lopp": [
+        "Managing Humans"
+    ],
+    "Khaled Hosseini": [
+        "The Kite Runner",
+        "A Thousand Splendid Suns"
+    ],
+    "Robert Anson Heinlein": [
+        "Starship Troopers"
+    ],
+    "Gregory David Roberts": [
+        "Shantaram: A Novel"
+    ],
+    "Dick King-Smith": [
+        "The Golden Goose"
+    ],
+    "Jack Kerouac": [
+        "The Dharma Bums",
+        "On the Road"
+    ],
+    "R. Scott Bakker": [
+        "The Warrior Prophet"
+    ],
+    "Ray Kurzweil": [
+        "The Singularity Is Near: When Humans Transcend Biology"
+    ],
+    "George Orwell": [
+        "The Complete Novels of George Orwell"
+    ],
+    "Haruki Murakami": [
+        "Kafka on the Shore"
+    ],
+    "Kurt Vonnegut": [
+        "Breakfast of Champions: A Novel",
+        "Cat's Cradle"
+    ],
+    "James W. Loewen": [
+        "The Truth About Columbus: A Subversively True Poster Book for a Dubiously Celebratory Occasion"
+    ],
+    "Richard Adams": [
+        "Watership Down"
+    ],
+    "Mikhail Bulgakov": [
+        "The Master and Margarita"
+    ],
+    "David Foster Wallace": [
+        "Infinite Jest"
+    ],
+    "Robert A. Heinlein": [
+        "The Moon Is a Harsh Mistress",
+        "Stranger in a Strange Land"
+    ],
+    "F. Scott Fitzgerald": [
+        "The Great Gatsby"
+    ],
+    "Brandon Sanderson": [
+        "Firefight",
+        "The Emperor's Soul",
+        "Mistborn Trilogy",
+        "Mitosis: A Reckoners Story",
+        "Elantris",
+        "Steelheart",
+        "Calamity",
+        "The Way of Kings",
+        "Words of Radiance",
+        "The Alloy of Law: A Mistborn Novel"
+    ],
+    "Dan Brown": [
+        "Inferno"
+    ],
+    "Vernor Vinge": [
+        "The Children of the Sky",
+        "A Fire Upon the Deep",
+        "Deepness in the Sky"
+    ],
+    "John Kennedy Toole": [
+        "A Confederacy of Dunces"
+    ],
+    "Joseph Heller": [
+        "Catch-22"
+    ],
+    "Patrick Rothfuss": [
+        "The Name of the Wind",
+        "Name of the Wind",
+        "Wise Man's Fear"
+    ],
+    "Mark Haddon": [
+        "The Curious Incident of the Dog in the Night-Time"
+    ],
+    "Richard Dawkins": [
+        "The God Delusion"
+    ],
+    "Walter M. Miller": [
+        "A Canticle for Leibowitz"
+    ],
+    "Albert Camus": [
+        "The Stranger"
+    ],
+    "Brent Weeks": [
+        "The Night Angel Trilogy"
+    ],
+    "Wilbur Smith": [
+        "Those in Peril",
+        "The Leopard Hunts in Darkness",
+        "The Eye of the Tiger: Hungry as the Sea",
+        "Elephant Song",
+        "The Sound of Thunder",
+        "Gold Mine",
+        "Cry Wolf",
+        "Time to Die",
+        "The Sunbird",
+        "The Triumph of the Sun",
+        "Monsoon",
+        "Vicious Circle",
+        "Shout at the Devil"
+    ],
+    "Richard Phillips Feynman": [
+        "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
+    ],
+    "Joseph Conrad": [
+        "Heart of Darkness"
+    ],
+    "John Schember": [
+        "Quick Start Guide"
+    ],
+    "Neil Gaiman": [
+        "Stardust",
+        "InterWorld",
+        "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "Anansi Boys",
+        "American Gods a Novel",
+        "Neverwhere",
+        "The Graveyard Book",
+        "The Ocean at the End of the Lane (Chinese and English Edition)",
+        "Norse Mythology"
+    ],
+    "Alfred Bester": [
+        "The Stars My Destination"
+    ],
+    "Douglas Adams": [
+        "So Long, and Thanks for All the Fish",
+        "The Ultimate Hitchhiker's Guide to the Galaxy"
+    ],
+    "Andrew Macdonald": [
+        "The Turner Diaries: A Novel"
+    ],
+    "Augusten Burroughs": [
+        "Running With Scissors: A Memoir"
+    ],
+    "Bill Bryson": [
+        "A Short History of Nearly Everything",
+        "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+        "The Life and Times of the Thunderbolt Kid: A Memoir",
+        "Down Under",
+        "Notes From a Small Island",
+        "Bryson's Dictionary for Writers"
+    ],
+    "Michael Chabon": [
+        "The Amazing Adventures of Kavalier Clay"
+    ],
+    "George R. R. Martin": [
+        "A Storm of Swords (A Song of Ice and Fire, Book 3)",
+        "A Dance With Dragons"
+    ],
+    "Lois Lowry": [
+        "The Giver"
+    ],
+    "Gene Wolfe": [
+        "The Shadow of the Torturer"
+    ],
+    "Philip Pullman": [
+        "The Subtle Knife: His Dark Materials"
+    ]
+}
