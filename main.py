@@ -9,8 +9,10 @@ NYT_TOKEN = os.getenv("NYT_TOKEN", None)
 books_data = {}
 
 def main():
-    print("NYT Token", NYT_TOKEN)
     nyt = NYTAPI(NYT_TOKEN)
+
+    # reviews = nyt.book_reviews(author = "George Orwell")
+    # reviews = nyt.book_reviews(title="Becoming")
 
     authors = {}
     with open("books.json", "r") as f:
@@ -25,7 +27,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 
 """
 book_dir = "/Users/neil/Downloads/books"
